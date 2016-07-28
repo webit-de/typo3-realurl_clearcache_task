@@ -1,0 +1,14 @@
+conf.py:
+  project: RealUrl ClearCache Task
+  version: 0.1.0
+  release: 0.1.0
+  latex_documents:
+  - - Index
+    - realurl_clearcache_task.tex
+    - RealUrl ClearCache Task
+    - Marco Grahl
+    - manual
+  latex_elements:
+    papersize: a4paper
+    pointsize: 10pt
+    preamble: \usepackage{typo3}
