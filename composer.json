@@ -1,0 +1,16 @@
+{
+  "name": "webit-de/realurl-clearcache-task",
+  "description": "Add RealUrl-Cache-tables to an multiple table garbage collection task",
+  "homepage": "https://github.com/webit-de/typo3-realurl_clearcache_task/",
+  "license": "GPL-2.0+",
+  "type": "typo3-cms-extension",
+  "require": {
+    "php": ">=5.5.0",
+    "typo3/cms-core": "^6.2 || ^7.6",
+    "dmitryd/typo3-realurl": "<2.0.0"
+  },
+  "replace": {
+    "realurl_clearcache_task": "self.version",
+    "typo3-ter/realurl_clearcache_task": "self.version"
+  }
+}
