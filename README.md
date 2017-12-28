@@ -1,6 +1,8 @@
 RealUrl ClearCache Task
 =======================
 
+:collision: **Abandoned - This repository is not maintained anymore!**
+
 This backend extension adds the realurl cache tables to the »Table garbage collection« scheduler task
 
 Remove entries in the realurl cache older than a given number of days automatically.
