@@ -89,7 +89,7 @@ patches.
 .. tip::
 	Issue tracker: https://github.com/webit-de/typo3-realurl_clearcache_task/issues
 
-Changecache
+Changelog
 ---------
 
 - https://github.com/webit-de/typo3-realurl_clearcache_task/blob/master/src/typo3/realurl_clearcache_task/Changelog.md
